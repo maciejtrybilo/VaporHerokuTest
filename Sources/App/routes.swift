@@ -1,6 +1,5 @@
 import Vapor
 import Crypto
-import CommonCrypto
 
 /// Capable of generating random `Data`.
 public protocol DataGenerator {
